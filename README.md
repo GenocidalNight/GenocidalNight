@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GenocidalNight
 - 👀 I’m interested in ...trying to code
 - 🌱 I’m currently learning ...roblox scripts, html,and a little bit of java
-- - 💞️ I’m looking to collaborate on ...anything that can hep me learn mire about coding
+- - 💞️ I’m looking to collaborate on ...anything that can hep me learn more about coding
 - 📫 How to reach me ... discord it's a similar user name.
 
 <!---
